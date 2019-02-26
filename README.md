@@ -1,1 +1,57 @@
-# WebDevelopment
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+ <head>
+   <meta charset="utf-8">
+   <meta name="viewpoint" content="width=device-width, initial-scale=1.0">
+ <title>images</title>
+</head>
+ <body>
+<h1>Playing with Images</h1>
+
+<img src="‎⁨Macintosh HD⁩/⁨Users⁩/Sabrina⁩/Desktop⁩/IMG_4807.jpg" alt="Fish from
+spongbob"title="Found on the internet, pretty funny guy">
+
+<p>Conrolling for height:</p>
+
+<img src="‎⁨Macintosh HD⁩/⁨Users⁩/Sabrina⁩/Desktop⁩/IMG_4807.jpg" alt="Fish from
+spongbob"title="Found on the internet, pretty funny guy"height="142">
+
+<p>Conrolling for width:</p>
+
+<img src="‎⁨Macintosh HD⁩/⁨Users⁩/Sabrina⁩/Desktop⁩/IMG_4807.jpg" alt="Fish from
+spongbob"title="Found on the internet, pretty funny guy"width="252">
+
+<p>display image from remove server:</p>
+<<figure>
+<img src="https://image.winudf.com/v2/image/Y29tLmRlY2xvdWQxNC5iaWtpbmljaXR5X3NjcmVlbl80XzE1MTY5OTgyNjVfMDYy/screen-4.jpg?h=800&fakeurl=1&type=.jpg"
+alt="City of Bikini Bottom">
+<figcaption>City of Bikini Bottom By APKPure, google images</figcaption>
+</figure>
+
+<p>Responsive design with images</p>
+<img src="Macintosh HD⁩/Users⁩/Sabrina⁩/⁨Desktop⁩/IMG_4807-584w.jpg" alt="Spongebob needs to shave">
+srcset="macintosh HD⁩/Users⁩/Sabrina⁩/⁨Desktop⁩/IMG_4807-252W.jpg 400W"
+sizes="(max-width: 600px) 252w">
+<h2>Atlas Video</h2>
+      <figure>
+        <iframe  id="Nigel Sylvester GO Dubai"
+          title="NIGEL Sylvester GO Dubai"
+          width="600"
+          height="600"
+          src="https://www.youtube.com/watch?v=vlD083kojB4">
+        </iframe>
+      </figure>
+  <h3>Move Your Feet (Tobtok Edit)</h3>
+  <figure>
+    <iframe  id="Move Your Feet"
+      title="TobTok"
+      width="100"
+      height="100"
+      allow="autoplay"
+      src="https://soundcloud.com/tobtok/junior-senior-move-your-feet">
+  </iframe>
+  </figure>
+  </body>
+</html>
+   </body>
+     </html>
